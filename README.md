@@ -7,9 +7,13 @@ the diagram will show how it's work:
 as we see, have the diagram that shows how `Nodes` work exactly, we firstly make a `head` pointer, which points to first Node made, it's will be firstly intialized with the value `nullptr`
 the STRUCTURE is made like this:
 ```cpp
-  typedef struct Node {
+typedef struct Node {
 	std::int16_t val;
 	struct Node* nextNd;
 	Node(std::int16_t v, struct Node* nxtNd): val(v),nextNd(nxtNd){}
 }Node, *PNode;
+```
+`val` represent the values that we put on
+```diff
+@@ ATTENTION!!
 ```

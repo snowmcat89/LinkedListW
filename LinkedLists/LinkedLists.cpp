@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+
 
 typedef struct Node {
 	std::int16_t val;

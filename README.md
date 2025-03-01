@@ -8,3 +8,4 @@ as we see, have the diagram that shows how `Nodes` work exactly, we firstly make
 ```cpp
 nullptr
 ```
+<span style="color: red;">This is red 

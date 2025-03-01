@@ -16,3 +16,7 @@ typedef struct Node {
 `val` represent the values that we put on
 > [!IMPORTANT]
 > Notice that on the diagram, i puted for each `val` as with `int` instead of `std::int16_t`, well...i didn't want just to make the diagram big
+
+now for the function `pushNode ()`, here's it own diagram:
+![specialDraw drawio (2)](https://github.com/user-attachments/assets/14524076-ac18-4958-a88e-9b958a8e90f3)
+

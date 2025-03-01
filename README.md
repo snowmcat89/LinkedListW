@@ -14,6 +14,6 @@ typedef struct Node {
 }Node, *PNode;
 ```
 `val` represent the values that we put on
-```diff
-@@ ATTENTION!! @@
-```
+
+# @@ ATTENTION!! @@
+

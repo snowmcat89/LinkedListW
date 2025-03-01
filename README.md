@@ -14,6 +14,5 @@ typedef struct Node {
 }Node, *PNode;
 ```
 `val` represent the values that we put on
-
-# @@ ATTENTION!! @@
-
+> [!TIP]
+> Notice that on the diagram, i puted for each `val` as with `int` instead of `std::int16_t`, well...i didn't want just to make the diagram big
